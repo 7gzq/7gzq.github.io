@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiqing Guo"
-description              : "Associate Professor in Xinjiang University. Focusing on multimedia forensics, and visual scene understanding."
+description              : "Associate Professor"
 repository               : "7gzq/7gzq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Zhiqing Guo"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : "images/gzq.jpg"
   bio              : "Xinjiang University"
   location         : "Urumqi, China"
   employer         :
