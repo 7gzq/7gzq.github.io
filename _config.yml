@@ -23,12 +23,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Zhiqing Guo (郭治卿)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
-  location         : "Singapore"
+  bio              : "Xinjiang University"
+  location         : "Urumqi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XKy7hQQAAAAJ"
+  email            : "guozhiqing@xju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "7gzq"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : #"rayeren"
+  dblp             : "https://dblp.uni-trier.de/pid/203/2235.html"
+  orcid            : "https://orcid.org/0000-0001-6412-334X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
