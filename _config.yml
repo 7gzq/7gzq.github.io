@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zhiqing Guo"
-description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+description              : "Associate Professor in Xinjiang University. Focusing on multimedia forensics, and visual scene understanding."
+repository               : "7gzq/7gzq.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Zhiqing Guo (郭治卿)"
+  name             : "Zhiqing Guo"
   avatar           : "images/ry_profile.jpeg"
   bio              : "Xinjiang University"
   location         : "Urumqi, China"
