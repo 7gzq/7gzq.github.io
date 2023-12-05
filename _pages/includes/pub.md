@@ -17,7 +17,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/ldfnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/ldf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information](https://ieeexplore.ieee.org/document/10163252) \\
