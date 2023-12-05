@@ -14,3 +14,5 @@ To promote the communication among the Chinese ML & NLP community, we (along wit
 I am currently an Associate Professor at the [School of Computer Science and Technology](https://it.xju.edu.cn/), [Xinjiang University](https://www.xju.edu.cn/index.htm), Urumqi, China. I received the Ph.D. degree in Computer Science and Technology from [Hunan University](https://www.hnu.edu.cn/) in 2023, advised by [Prof. Gaobo Yang](http://csee.hnu.edu.cn/people/yanggaobo). I am the PI of several projects, such as the Natural Science Foundation of China (NSFC). I have published several research papers in international journals, such as IEEE TIFS, TMM, TCSVT, and ACM TOMM. I am now leading the Visual Perception and Security Group (VPSG), with main research interests in multimedia forensics, visual scene understanding, deep learning. 
 
 **<VPSG is looking for self-motivated students who are committed to research. Please feel free to contact Dr. Zhiqing Guo through the [Email](guozhiqing@xju.edu.cn) (attach your CV).</font>**
+
+>[『Homepage in Chinese (中文主页)』]()
