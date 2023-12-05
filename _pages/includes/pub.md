@@ -21,7 +21,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 <div class='paper-box-text' markdown="1">
 
 [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information](https://ieeexplore.ieee.org/document/10163252) \\
-**Z. Guo**, L. Wang \*, W. Yang, G. Yang, and K. Li
+**Z. Guo**, L. Wang \*, W. Yang, G. Yang \*, and K. Li
 IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3289147.（CCF-B, Top Journal）
 
 - This work propose a unified end-to-end framework, which can realize efficient deepfake detection.
