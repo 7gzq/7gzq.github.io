@@ -56,7 +56,7 @@ IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3237169.（CCF-B, Top Jou
 - [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
 >Dewang Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
 
-## Others
+## 🔍 Others
 - ``JISA 2022`` [HDNet: A Dual-stream Network with Progressive Fusion for Image Hazing Detection](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
 >J. Chen, G. Yang\*, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF-C)
 - ``CVIU 2022`` [Robust Detection of Dehazed Images via Dual-stream CNNs with Adaptive Feature Fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
