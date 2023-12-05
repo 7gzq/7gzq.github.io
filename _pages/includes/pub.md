@@ -12,7 +12,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 
 [**Code**](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- This paper proposes a new detection paradigm for deepfake detection.
+- This work proposes a new detection paradigm for deepfake detection.
 </div>
 </div>
 
@@ -36,7 +36,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCS
 **Z. Guo**, G. Yang\*, J. Chen, and X. Sun.
 IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3237169.（CCF-B, Top Journal）
 
-- This paper expands the applications of the guided filter, and overcomes the potential bias in the prediction-based residuals.
+- This work expands the applications of the guided filter, and overcomes the potential bias in the prediction-based residuals.
 </div>
 </div>
 
