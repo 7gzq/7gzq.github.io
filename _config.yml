@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiqing Guo"
-description              : "Associate Professor"
+description              : "Xinjiang University"
 repository               : "7gzq/7gzq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Zhiqing Guo"
   avatar           : "images/gzq.png"
-  bio              : "Xinjiang University"
+  bio              : "Ph.D., Associate Professor"
   location         : "Urumqi, China"
   employer         :
   pubmed           : 
