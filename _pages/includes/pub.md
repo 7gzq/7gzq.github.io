@@ -7,7 +7,7 @@ NOTE: corresponding authors are indicated using *
 <div class='paper-box-text' markdown="1">
   
 [Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/document/10286083) \\
-**Z. Guo**, Z. Jia \*, L. Wang, D. Wang, G. Yang \*, and N. Kasabov.
+**Z. Guo**, Z. Jia\*, L. Wang, D. Wang, G. Yang\*, and N. Kasabov.
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2024, doi: 10.1109/TIFS.2023.3324739. (CCF-A, Top Journal)
 
 [**Code**](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -21,7 +21,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 <div class='paper-box-text' markdown="1">
 
 [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information](https://ieeexplore.ieee.org/document/10163252) \\
-**Z. Guo**, L. Wang \*, W. Yang, G. Yang \*, and K. Li.
+**Z. Guo**, L. Wang\*, W. Yang, G. Yang\*, and K. Li.
 IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3289147.（CCF-B, Top Journal）
 
 - This work propose a unified end-to-end framework, which can realize efficient deepfake detection.
@@ -33,7 +33,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCS
 <div class='paper-box-text' markdown="1">
 
 [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352) \\
-**Z. Guo**, G. Yang \*, J. Chen, and X. Sun.
+**Z. Guo**, G. Yang\*, J. Chen, and X. Sun.
 IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3237169.（CCF-B, Top Journal）
 
 - This paper expands the applications of the guided filter, and overcomes the potential bias in the prediction-based residuals.
@@ -42,21 +42,20 @@ IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3237169.（CCF-B, Top Jou
 
 
 - ``ESWA 2023`` [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
->**Z. Guo**, G. Yang*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
+>**Z. Guo**, G. Yang\*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
 - ``CVIU 2023`` [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
->**Z. Guo**, G. Yang*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF-B) [[code]](https://github.com/EricGzq/MSF)
+>**Z. Guo**, G. Yang\*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF-B) [[code]](https://github.com/EricGzq/MSF)
 - ``CVIU 2021`` [Fake Face Detection via Adaptive Manipulation Traces Extraction Network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
->**Z. Guo**, G. Yang*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF-B) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>**Z. Guo**, G. Yang\*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF-B) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 - ``MTA 2021`` [Blind Detection of Glow-based Facial Forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
->**Z. Guo**, L. Hu, M. Xia, and G. Yang*. Multimedia Tools and Applications, 2021. (CCF-C) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
+>**Z. Guo**, L. Hu, M. Xia, and G. Yang\*. Multimedia Tools and Applications, 2021. (CCF-C) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
 
 <!-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) -->
 
-## 👄 Talkingface Generation
-- `ICLR 2023` [GeneFace: Generalized and High-Fidelity Audio-Driven 3D Talking Face Synthesis](https://openreview.net/forum?id=YfwMIDhPccD), Zhenhui Ye, Ziyue Jiang, **Yi Ren**, Jinglin Liu, Jinzheng He, Zhou Zhao
-- ``AAAI 2022`` [Parallel and High-Fidelity Text-to-Lip Generation](https://arxiv.org/abs/2107.06831), Jinglin Liu, Zhiying Zhu, **Yi Ren**, Wencan Huang, Baoxing Huai, Nicholas Yuan, Zhou Zhao \| [![](https://img.shields.io/github/stars/Dianezzy/ParaLip?style=social&label=ParaLip Stars)](https://github.com/Dianezzy/ParaLip)
-- ``AAAI 2022`` [Flow-based Unconstrained Lip to Speech Generation](https://ojs.aaai.org/index.php/AAAI/article/view/19966), Jinzheng He, Zhou Zhao, **Yi Ren**, Jinglin Liu, Baoxing Huai, Nicholas Yuan
-- ``ACM-MM 2020`` [FastLR: Non-Autoregressive Lipreading Model with Integrate-and-Fire](https://dl.acm.org/doi/10.1145/3394171.3413740), Jinglin Liu, **Yi Ren**, Zhou Zhao, Chen Zhang, Baoxing Huai, Jing Yuan
+## 🔣 Image Steganography
+- [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
+>Dewang Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
+
 
 ## 📚 Machine Translation 
 - ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, Linjun Li, Zhenhui Ye, Jinzheng He, Lichao Zhang, Jinglin Liu, Xiang Yin and Zhou Zhao
