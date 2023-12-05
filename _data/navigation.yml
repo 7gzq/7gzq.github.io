@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Fundings"
-    url: "/#-fundings-(pi)"
+  - title: "Research Funding"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
