@@ -10,7 +10,7 @@ NOTE: corresponding authors are indicated using *
 **Z. Guo**, Z. Jia\*, L. Wang, D. Wang, G. Yang\*, and N. Kasabov.
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2024, doi: 10.1109/TIFS.2023.3324739. (CCF-A, Top Journal)
 
-[**Code**](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[[**Code**]](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - This work proposes a new detection paradigm for deepfake detection.
 </div>
@@ -42,13 +42,13 @@ IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3237169.（CCF-B, Top Jou
 
 
 - ``ESWA 2023`` [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
->**Z. Guo**, G. Yang\*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
+>**Z. Guo**, G. Yang\*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[**Code**]](https://github.com/EricGzq/GocNet-pytorch)
 - ``CVIU 2023`` [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
->**Z. Guo**, G. Yang\*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF-B) [[code]](https://github.com/EricGzq/MSF)
+>**Z. Guo**, G. Yang\*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF-B) [[**Code**]](https://github.com/EricGzq/MSF)
 - ``CVIU 2021`` [Fake Face Detection via Adaptive Manipulation Traces Extraction Network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
->**Z. Guo**, G. Yang\*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF-B) [[code]](https://github.com/EricGzq/AMTENnet) [[dataset]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>**Z. Guo**, G. Yang\*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF-B) [[**Code**]](https://github.com/EricGzq/AMTENnet) [[**Dataset**]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 - ``MTA 2021`` [Blind Detection of Glow-based Facial Forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
->**Z. Guo**, L. Hu, M. Xia, and G. Yang\*. Multimedia Tools and Applications, 2021. (CCF-C) [[dataset]](https://github.com/EricGzq/GFF-Dataset)
+>**Z. Guo**, L. Hu, M. Xia, and G. Yang\*. Multimedia Tools and Applications, 2021. (CCF-C) [[**Dataset**]](https://github.com/EricGzq/GFF-Dataset)
 
 <!-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) -->
 
