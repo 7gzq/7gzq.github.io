@@ -7,13 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Fundings"
-    url: "/#-research-Funding-,-PI"
+    url: "/#-research-Funding"
 
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Academic Services"
+    url: "/#-academic-services"
 
   - title: "Contacts"
     url: "/#-contacts"
