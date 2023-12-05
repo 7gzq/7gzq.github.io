@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Fundings"
-    #url: "/#-fundings"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
