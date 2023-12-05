@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiqing Guo"
-description              : "Xinjiang University"
+description              : "School of Computer Science and Technology, Xinjiang University"
 repository               : "7gzq/7gzq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Urumqi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XKy7hQQAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=XKy7hQQAAAAJ"
   email            : "guozhiqing@xju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "7gzq"
+  github           : "EricGzq"
   google_plus      :
   keybase          :
   instagram        :
