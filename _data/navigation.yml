@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Fundings"
-    url: "/#-news"
+    url: "/#-research-Funding-,-PI"
 
   - title: "Publications"
     url: "/#-publications"
@@ -15,11 +15,6 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Contacts"
+    url: "/#-contacts"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
