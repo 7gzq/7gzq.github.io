@@ -3,7 +3,7 @@
 NOTE: corresponding authors are indicated using *
 ## 🧙‍♂️ Deepfake Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/sfic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/document/10286083) \\
