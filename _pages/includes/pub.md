@@ -3,11 +3,11 @@
 NOTE: corresponding authors are indicated using *
 ## 🧙‍♂️ Deepfake Detection
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/fc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/sfic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/document/10286083) \\
-**Z. Guo**, Z. Jia ¢, L. Wang, D. Wang, G. Yang ¢, and N. Kasabov.\\
+**Z. Guo**, Z. Jia \*, L. Wang, D. Wang, G. Yang \*, and N. Kasabov.\\
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2024, doi: 10.1109/TIFS.2023.3324739. (CCF-A, Top Journal)
 
 [**Code**](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
