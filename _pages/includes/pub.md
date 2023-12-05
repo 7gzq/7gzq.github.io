@@ -41,17 +41,8 @@ IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3237169.（CCF-B, Top Jou
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
-</div>
-</div>
-
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
+- ``ESWA 2023`` [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
+>**Z. Guo**, G. Yang*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[code]](https://github.com/EricGzq/GocNet-pytorch)
 - ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, Yi Ren, Ziyue Jiang, Jinglin Liu, Jinzheng He, Xiang Yin and Zhou Zhao
 - ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
 - ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, Chenye Cui, Jinglin Liu and Zhou Zhao
