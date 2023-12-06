@@ -24,7 +24,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 **Z. Guo**, L. Wang\*, W. Yang, G. Yang\*, and K. Li.
 IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2023.3289147.（CCF-B, Top Journal）
 
-- This work proposes a unified end-to-end framework, which can realize efficient deepfake detection.
+- This work proposes an unified end-to-end framework, which can realize efficient deepfake detection.
 </div>
 </div>
 
