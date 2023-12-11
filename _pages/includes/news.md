@@ -1,4 +1,5 @@
 # 🔥 News
+- [2023/12/11] 🎓 I was selected for the Tianchi Talents - Young Doctor Project.
 - [2023/12/09] ⭐️ I became an Associate Professor at Xinjiang University.
 - [2023/12/08] 🏆 I won the Outstanding Report Award at the Third Postgraduate Academic Forum in the journal of image and graphics.
 - [2023/10/11] 🎉 One paper is accepted to IEEE TIFS!
