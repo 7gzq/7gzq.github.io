@@ -15,4 +15,4 @@ I am currently an Associate Professor at the [School of Computer Science and Tec
 
 **VPSG is looking for self-motivated students who are committed to research. Please feel free to contact Dr. Zhiqing Guo through the [Email](mailto:guozhiqing@xju.edu.cn) (attach your CV).**
 
->[『Homepage in Chinese (暂不可用)』]()
+>[『Homepage in Chinese (中文主页)』](https://it.xju.edu.cn/info/1156/3109.htm)
