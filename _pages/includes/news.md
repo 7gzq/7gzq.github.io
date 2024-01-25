@@ -1,4 +1,5 @@
 # 🔥 News
+- [2024/01/24] ⭐️ I became the Academic Associate Dean of the School of Computer Science and Technology of Xinjiang University.
 - [2024/01/16] 🏆 I was awarded "Outstanding Contributor to Scientific Research" by the School of Computer Science and Technology of Xinjiang University.
 - [2024/01/15] 🎉 One paper was accepted by NCA!
 - [2023/12/11] 🎓 I was selected for the Tianchi Talents - Young Doctor Project.
