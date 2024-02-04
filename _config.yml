@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiqing Guo (郭治卿)"
+title                    : "Zhiqing Guo"
 description              : "School of Computer Science and Technology, Xinjiang University"
 repository               : "7gzq/7gzq.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Zhiqing Guo"
+  name             : "Zhiqing Guo (郭治卿)"
   avatar           : "images/gzq.png"
   bio              : "Ph.D., Associate Professor"
   location         : "Urumqi, China"
