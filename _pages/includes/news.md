@@ -1,4 +1,5 @@
 # 🔥 News
+- [2024/04/11] 🎓 I was selected as a doctoral supervisor.
 - [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.
 - [2024/01/24] ⭐️ I became the Academic Associate Dean of the School of Computer Science and Technology of Xinjiang University.
 - [2024/01/16] 🏆 I was awarded "Outstanding Contributor to Scientific Research" by the School of Computer Science and Technology of Xinjiang University.
