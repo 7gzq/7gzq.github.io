@@ -9,6 +9,7 @@ Journal Reviewer:
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Circuits and Systems for Video Technology
 - ACM Transactions on Multimedia Computing, Communications, and Applications
+- Pattern Recognition
 - Computer Vision and Image Understanding
 - Information Fusion
 - Knowledge-Based Systems
