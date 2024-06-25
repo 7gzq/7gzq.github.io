@@ -1,4 +1,5 @@
 # 🔥 News
+- [2024/06/25] 🎉 One paper was accepted by PRCV 2024!
 - [2024/05/31] 🎉 One paper was accepted by IPM!
 - [2024/04/11] 🎓 I was selected as a doctoral supervisor.
 - [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.
