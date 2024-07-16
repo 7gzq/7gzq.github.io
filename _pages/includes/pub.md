@@ -57,7 +57,9 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 >Dewang Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
 
 ## 🔍 Others
-- ``JISA 2022`` [HDNet: A Dual-stream Network with Progressive Fusion for Image Hazing Detection](https://www.sciencedirect.com/science/article/pii/S2214212622001314?dgcid=coauthor)
->J. Chen, G. Yang\*, M. Xia, **Z. Guo**, and T. Huang. Journal of Information Security and Applications, 2022. (CCF-C)
+- ``IPM 2024`` [TBC-MI : Suppressing noise labels by maximizing cleaning samples for robust image classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
+>Y. Li, **Z. Guo**, L. Wang\*, and L. Xu. Information Processing & Management, 2024. (CCF-B, Top Journal)
+- ``NCA 2024`` [ATFTrans: attention-weighted token fusion transformer for robust and efficient object tracking](https://link.springer.com/article/10.1007/s00521-024-09444-0)
+>L. Xu, L. Wang\*, and **Z. Guo**. Neural Computing and Applications, 2024. (CCF-C)
 - ``CVIU 2022`` [Robust Detection of Dehazed Images via Dual-stream CNNs with Adaptive Feature Fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
 >J. Chen, G. Yang\*, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF-B)
