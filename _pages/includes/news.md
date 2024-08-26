@@ -1,4 +1,5 @@
 # 🔥 News
+- [2024/08/26] 🎉 A proactive deepfake detection project was funded by NSFC.
 - [2024/06/25] 🎉 One paper was accepted by PRCV 2024!
 - [2024/05/31] 🎉 One paper was accepted by IPM!
 - [2024/04/11] 🎓 I was selected as a doctoral supervisor.
