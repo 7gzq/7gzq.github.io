@@ -1,4 +1,5 @@
 # 🔥 News
+- [2024/10/23] 🎉 One paper was accepted by ASOC!
 - [2024/09/15] 🏆 Our team won the Top 20 Excellence Award in The Global Multimedia Deepfake Detection.
 - [2024/08/26] 🎉 A proactive deepfake detection project was funded by NSFC.
 - [2024/06/25] 🎉 One paper was accepted by PRCV 2024!
@@ -11,7 +12,4 @@
 - [2023/12/09] ⭐️ I became an Associate Professor at Xinjiang University.
 - [2023/12/08] 🏆 I won the Outstanding Report Award at the Third Postgraduate Academic Forum in the journal of image and graphics.
 - [2023/10/11] 🎉 One paper was accepted by IEEE TIFS!
-- [2023/06/21] 🎉 One paper was accepted by IEEE TCSVT!
-- [2023/05/22] 🎉 One paper was accepted by ACM TOMM!
-- [2023/04/21] 🎉 One patent was granted.
 
