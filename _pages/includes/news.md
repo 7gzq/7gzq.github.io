@@ -1,4 +1,5 @@
 # 🔥 News
+- [2024/10/27] 🏆 We won the Outstanding Paper Award in the 5th CSIG ChinaMFS Conference.
 - [2024/10/23] 🎉 One paper was accepted by ASOC!
 - [2024/09/15] 🏆 Our team won the Top 20 Excellence Award in The Global Multimedia Deepfake Detection.
 - [2024/08/26] 🎉 A proactive deepfake detection project was funded by NSFC.
