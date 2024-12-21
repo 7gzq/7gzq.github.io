@@ -1,4 +1,5 @@
 # 🔥 News
+- [2024/12/21] 🎉 Three papers were accepted by ICASSP 2025!
 - [2024/10/28] 🎉 One paper was accepted by ESWA!
 - [2024/10/27] 🏆 We won the Outstanding Paper Award in the 5th CSIG ChinaMFS Conference.
 - [2024/10/23] 🎉 One paper was accepted by ASOC!
