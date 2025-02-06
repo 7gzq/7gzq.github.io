@@ -1,4 +1,5 @@
 # 🔥 News
+- [2025/02/06] 🎉 One paper was accepted by IVC!
 - [2025/01/04] 🎉 One paper was accepted by Information Fusion!
 - [2024/12/21] 🎉 Three papers were accepted by ICASSP 2025!
 - [2024/10/28] 🎉 One paper was accepted by ESWA!
