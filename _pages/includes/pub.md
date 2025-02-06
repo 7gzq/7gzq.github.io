@@ -61,6 +61,9 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 >Z. Zhang, **Z. Guo**, L. Wang, and Y. Li. Expert Systems with Applications, 2025. （CCF-C, Top Journal）
 
 ## 🏥 Medical Image Processing
+- ``INF 2025`` [Conv-SdMLPMixer: A Hybrid Medical Image Classification Network Based on Multi-branch CNN and Multi-scale multi-dimensional MLP](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000107)
+>Z. Ren, S Liu, L. Wang, and **Z. Guo**. Information Fusion, 2025. （Top Journal）
+
 - ``ASC 2024`` [Medical Image Segmentation Network Based on Feature Filtering with Low Number of Parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011736)
 >Z. Ren, **Z. Guo**, L. Wang, L. Xu, and C. Liu. Applied Soft Computing, 2024. （CCF-C, Top Journal）
 
