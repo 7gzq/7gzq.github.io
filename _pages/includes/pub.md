@@ -54,7 +54,15 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 
 ## 🔣 Image Steganography
 - ``ACM-TOMM 2023`` [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
->Dewang Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
+>D. Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
+
+## 📽️ Object Detection and Tracking
+- ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
+>Z. Zhang, **Z. Guo**, L. Wang, and Y. Li. Expert Systems with Applications, 2025. （CCF-C, Top Journal）
+
+## 🏥 Medical Image Processing
+- ``ASC 2024`` [Medical Image Segmentation Network Based on Feature Filtering with Low Number of Parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011736)
+>Z. Ren, **Z. Guo**, L. Wang, L. Xu, and C. Liu. Applied Soft Computing, 2024. （CCF-C, Top Journal）
 
 ## 🔍 Others
 - ``IPM 2024`` [TBC-MI : Suppressing noise labels by maximizing cleaning samples for robust image classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
