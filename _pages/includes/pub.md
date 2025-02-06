@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-NOTE: corresponding authors are indicated using *
+NOTE: Corresponding Authors *, Equal Contribution #
 ## 🧙‍♂️ Deepfake Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TIFS 2024</div><img src='images/sfic.png' alt="sym" width="100%"></div></div>
@@ -58,17 +58,17 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 
 ## 📽️ Object Detection and Tracking
 - ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
->Z. Zhang, **Z. Guo**, L. Wang, and Y. Li. Expert Systems with Applications, 2025. （CCF-C, Top Journal）
+>Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （CCF-C, Top Journal）
 
 - ``NCA 2024`` [ATFTrans: attention-weighted token fusion transformer for robust and efficient object tracking](https://link.springer.com/article/10.1007/s00521-024-09444-0)
 >L. Xu, L. Wang\*, and **Z. Guo**. Neural Computing and Applications, 2024. (CCF-C)
 
 ## 🏥 Medical Image Processing
 - ``INF 2025`` [Conv-SdMLPMixer: A Hybrid Medical Image Classification Network Based on Multi-branch CNN and Multi-scale multi-dimensional MLP](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000107)
->Z. Ren, S Liu, L. Wang, and **Z. Guo**. Information Fusion, 2025. （Top Journal）
+>Z. Ren#, S Liu#, L. Wang\*, and **Z. Guo**\*. Information Fusion, 2025. （Top Journal）
 
 - ``ASC 2024`` [Medical Image Segmentation Network Based on Feature Filtering with Low Number of Parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011736)
->Z. Ren, **Z. Guo**, L. Wang, L. Xu, and C. Liu. Applied Soft Computing, 2024. （CCF-C, Top Journal）
+>Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （CCF-C, Top Journal）
 
 ## 🔍 Others
 - ``IPM 2024`` [TBC-MI : Suppressing noise labels by maximizing cleaning samples for robust image classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
