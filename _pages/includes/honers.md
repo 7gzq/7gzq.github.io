@@ -6,6 +6,7 @@ Technical Committee：
 
 Journal Reviewer:
 - IEEE Transactions on Information Forensics and Security
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Multimedia
 - IEEE Transactions on Circuits and Systems for Video Technology
 - ACM Transactions on Multimedia Computing, Communications, and Applications
