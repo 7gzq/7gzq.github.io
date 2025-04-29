@@ -1,4 +1,5 @@
 # 🔥 News
+- [2025/04/28] 🎉 Three papers were accepted by ICIC 2025!
 - [2025/03/21] 🎉 One paper was accepted by ICME 2025!
 - [2025/02/06] 🎉 One paper was accepted by IVC!
 - [2025/01/04] 🎉 One paper was accepted by Information Fusion!
@@ -12,5 +13,4 @@
 - [2024/05/31] 🎉 One paper was accepted by IPM!
 - [2024/04/11] 🎓 I was selected as a doctoral supervisor.
 - [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.
-- [2024/01/16] 🏆 I was awarded "Outstanding Contributor to Scientific Research" by the School of Computer Science and Technology of Xinjiang University.
 
