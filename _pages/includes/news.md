@@ -1,5 +1,5 @@
 # 🔥 News
-- [2025/04/28] 🎉 Three papers were accepted by ICIC 2025!
+- [2025/04/28] 🎉 Three papers (2 oral, 1 poster) were accepted by ICIC 2025!
 - [2025/03/21] 🎉 One paper was accepted by ICME 2025!
 - [2025/02/06] 🎉 One paper was accepted by IVC!
 - [2025/01/04] 🎉 One paper was accepted by Information Fusion!
