@@ -14,3 +14,12 @@
 - [2024/04/11] 🎓 I was selected as a doctoral supervisor.
 - [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<tr>
+    <ul>
+        [2024.09]: One paper on 
+   
+    </ul>
+    </td>
+</tr>
+</tbody></table>
