@@ -52,17 +52,6 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 
 <!-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) -->
 
-## 🔣 Image Steganography
-- ``ACM-TOMM 2023`` [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
->D. Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
-
-## 📽️ Object Detection and Tracking
-- ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
->Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （Top Journal）
-
-- ``NCA 2024`` [ATFTrans: attention-weighted token fusion transformer for robust and efficient object tracking](https://link.springer.com/article/10.1007/s00521-024-09444-0)
->L. Xu, L. Wang\*, and **Z. Guo**. Neural Computing and Applications, 2024. (CCF-C)
-
 ## 🏥 Medical Image Processing
 - ``INF 2025`` [Conv-SdMLPMixer: A Hybrid Medical Image Classification Network Based on Multi-branch CNN and Multi-scale multi-dimensional MLP](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000107)
 >Z. Ren#, S Liu#, L. Wang\*, and **Z. Guo**\*. Information Fusion, 2025. （Top Journal）
@@ -70,9 +59,15 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 - ``ASC 2024`` [Medical Image Segmentation Network Based on Feature Filtering with Low Number of Parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011736)
 >Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
 
-## 🔍 Others
+## 📽️ Other visual tasks
+- ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
+>Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （Top Journal）
+
 - ``IPM 2024`` [TBC-MI : Suppressing noise labels by maximizing cleaning samples for robust image classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
 >Y. Li, **Z. Guo**, L. Wang\*, and L. Xu. Information Processing & Management, 2024. (CCF-B, Top Journal)
+
+- ``ACM-TOMM 2023`` [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
+>D. Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
 
 - ``CVIU 2022`` [Robust Detection of Dehazed Images via Dual-stream CNNs with Adaptive Feature Fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
 >J. Chen, G. Yang\*, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF-B)
