@@ -17,7 +17,7 @@
 
 <!-- 旧消息（默认隐藏） -->
 <details id="oldNews">
-  <summary class="more-button">  More</summary>
+  <summary class="more-button">  >> More</summary>
   <div class="older-news">
     <p>- [2024/04/11] 🎓 I was selected as a doctoral supervisor.</p>
     <p>- [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.</p>
