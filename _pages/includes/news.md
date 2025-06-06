@@ -25,19 +25,5 @@
   </div>
 </details>
 
-<style>
-  .more-button {
-    cursor: pointer;
-    color: #0366d6;
-    font-weight: bold;
-    padding: 8px 0;
-    display: inline-block;
-  }
-  .older-news {
-    margin-top: 10px;
-    border-left: 2px solid #eee;
-    padding-left: 15px;
-  }
-</style>
 
 
