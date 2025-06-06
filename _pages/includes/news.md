@@ -1,5 +1,5 @@
 # 🔥 News
-<!-- 最新消息（始终显示） -->
+
 <div class="recent-news">
   <li> [2025/04/28] 🎉 Three papers (2 oral, 1 poster) were accepted by ICIC 2025!</li>
   <li> [2025/03/21] 🎉 One paper was accepted by ICME 2025!</li>
@@ -15,13 +15,11 @@
   <li> [2024/05/31] 🎉 One paper was accepted by IPM!</li>
 </div>
 
-<!-- 旧消息（默认隐藏） -->
 <details id="oldNews">
   <summary class="more-button">  >> More</summary>
   <div class="older-news">
     <li> [2024/04/11] 🎓 I was selected as a doctoral supervisor.</li>
     <li> [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.</li>
-    <!-- 更多旧消息... -->
   </div>
 </details>
 
