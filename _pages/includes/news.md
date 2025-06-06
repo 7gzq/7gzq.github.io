@@ -2,17 +2,17 @@
 <!-- 最新消息（始终显示） -->
 <div class="recent-news">
   <li> [2025/04/28] 🎉 Three papers (2 oral, 1 poster) were accepted by ICIC 2025!
-  <li>- [2025/03/21] 🎉 One paper was accepted by ICME 2025!
-  <li>- [2025/02/06] 🎉 One paper was accepted by IVC!
-  <li>- [2025/01/04] 🎉 One paper was accepted by Information Fusion!
-  <li>- [2024/12/21] 🎉 Three papers were accepted by ICASSP 2025!
-  <li>- [2024/10/28] 🎉 One paper was accepted by ESWA!
-  <li>- [2024/10/27] 🏆 We won the Outstanding Paper Award in the 5th CSIG ChinaMFS Conference.
-  <li>- [2024/10/23] 🎉 One paper was accepted by ASOC!
-  <li>- [2024/09/15] 🏆 Our team won the Top 20 Excellence Award in The Global Multimedia Deepfake Detection.
-  <li>- [2024/08/26] 🎉 A proactive deepfake detection project was funded by NSFC.
-  <li>- [2024/06/25] 🎉 One paper was accepted by PRCV 2024!
-  <li>- [2024/05/31] 🎉 One paper was accepted by IPM!
+  <li> [2025/03/21] 🎉 One paper was accepted by ICME 2025!
+  <li> [2025/02/06] 🎉 One paper was accepted by IVC!
+  <li> [2025/01/04] 🎉 One paper was accepted by Information Fusion!
+  <li> [2024/12/21] 🎉 Three papers were accepted by ICASSP 2025!
+  <li> [2024/10/28] 🎉 One paper was accepted by ESWA!
+  <li> [2024/10/27] 🏆 We won the Outstanding Paper Award in the 5th CSIG ChinaMFS Conference.
+  <li> [2024/10/23] 🎉 One paper was accepted by ASOC!
+  <li> [2024/09/15] 🏆 Our team won the Top 20 Excellence Award in The Global Multimedia Deepfake Detection.
+  <li> [2024/08/26] 🎉 A proactive deepfake detection project was funded by NSFC.
+  <li> [2024/06/25] 🎉 One paper was accepted by PRCV 2024!
+  <li> [2024/05/31] 🎉 One paper was accepted by IPM!
 </div>
 
 <!-- 旧消息（默认隐藏） -->
