@@ -25,31 +25,4 @@
   </div>
 </details>
 
-<style>
-  .more-button {
-    cursor: pointer;
-    color: #0366d6;
-    font-weight: bold;
-    padding: 8px 0;
-    display: inline-block;
-  }
-  .older-news {
-    margin-top: 10px;
-    border-left: 2px solid #eee;
-    padding-left: 15px;
-  }
-</style>
 
-<script>
-  // 自动隐藏超过5条后的内容
-  document.addEventListener('DOMContentLoaded', () => {
-    const newsItems = document.querySelectorAll('p');
-    const maxRecent = 5; // 显示的最新消息数量
-    
-    if(newsItems.length > maxRecent) {
-      for(let i = maxRecent; i < newsItems.length; i++) {
-        newsItems[i].classList.add('older-news-item');
-      }
-    }
-  });
-</script>
