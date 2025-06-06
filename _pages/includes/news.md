@@ -17,12 +17,27 @@
 
 <!-- 旧消息（默认隐藏） -->
 <details id="oldNews">
-  <summary class="more-button">>>More</summary>
+  <summary class="more-button">  More</summary>
   <div class="older-news">
     <p>- [2024/04/11] 🎓 I was selected as a doctoral supervisor.</p>
     <p>- [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.</p>
     <!-- 更多旧消息... -->
   </div>
 </details>
+
+<style>
+  .more-button {
+    cursor: pointer;
+    color: #0366d6;
+    font-weight: bold;
+    padding: 8px 0;
+    display: inline-block;
+  }
+  .older-news {
+    margin-top: 10px;
+    border-left: 2px solid #eee;
+    padding-left: 15px;
+  }
+</style>
 
 
