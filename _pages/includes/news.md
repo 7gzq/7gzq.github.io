@@ -19,8 +19,8 @@
 <details id="oldNews">
   <summary class="more-button">  >> More</summary>
   <div class="older-news">
-    <p> [2024/04/11] 🎓 I was selected as a doctoral supervisor.</p>
-    <p> [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.</p>
+    <li> [2024/04/11] 🎓 I was selected as a doctoral supervisor.</li>
+    <li> [2024/04/03] 🎤 I was invited to participate in the 12th Boda Information Forum and gave a report.</li>
     <!-- 更多旧消息... -->
   </div>
 </details>
