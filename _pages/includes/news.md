@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2025/06/26] 🎉 One paper was accepted by ICCV 2025!</li>
   <li> [2025/04/28] 🎉 Three papers (2 oral, 1 poster) were accepted by ICIC 2025!</li>
   <li> [2025/03/21] 🎉 One paper was accepted by ICME 2025!</li>
   <li> [2025/02/06] 🎉 One paper was accepted by IVC!</li>
