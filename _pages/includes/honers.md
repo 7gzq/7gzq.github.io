@@ -5,6 +5,7 @@ Technical Committee：
 - Member, China Computer Federation (CCF), Artificial Intelligence and Pattern Recognition Technical Committee.
 
 Journal Reviewer:
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Information Forensics and Security
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Multimedia
