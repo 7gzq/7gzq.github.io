@@ -79,7 +79,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A)
 
 ## 📽️ Other visual tasks
 - ``PR 2025`` [CLTR: Continual Learning Time-varying Regularization for Robust Classification of Noisy Label Images](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007976)
->Y. Li, **Z. Guo**, and L. Wang\*. Pattern Recognition, 2025. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/CLTR)
+>Y. Li#, **Z. Guo**#, and L. Wang\*. Pattern Recognition, 2025. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/CLTR)
 
 - ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
 >Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （Top Journal） [[**Code**]](https://github.com/vpsg-research/CTIFTrack)
