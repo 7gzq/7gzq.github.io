@@ -72,14 +72,17 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A)
 </div>
 
 - ``INF 2025`` [Conv-SdMLPMixer: A Hybrid Medical Image Classification Network Based on Multi-branch CNN and Multi-scale multi-dimensional MLP](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000107)
->Z. Ren#, S Liu#, L. Wang\*, and **Z. Guo**\*. Information Fusion, 2025. （Top Journal）
+>Z. Ren#, S Liu#, L. Wang\*, and **Z. Guo**\*. Information Fusion, 2025. （Top Journal） [[**Code**]](https://github.com/vpsg-research/Conv-SdMLPMixer)
 
 - ``ASC 2024`` [Medical Image Segmentation Network Based on Feature Filtering with Low Number of Parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011736)
 >Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
 
 ## 📽️ Other visual tasks
+- ``PR 2025`` [CLTR: Continual Learning Time-varying Regularization for Robust Classification of Noisy Label Images](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007976)
+>Y. Li, **Z. Guo**, and L. Wang\*. Pattern Recognition, 2025. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/CLTR)
+
 - ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
->Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （Top Journal）
+>Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （Top Journal） [[**Code**]](https://github.com/vpsg-research/CTIFTrack)
 
 - ``IPM 2024`` [TBC-MI : Suppressing noise labels by maximizing cleaning samples for robust image classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
 >Y. Li, **Z. Guo**, L. Wang\*, and L. Xu. Information Processing & Management, 2024. (CCF-B, Top Journal)
