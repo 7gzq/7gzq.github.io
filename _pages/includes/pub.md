@@ -77,7 +77,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A)
 - ``ASC 2024`` [Medical Image Segmentation Network Based on Feature Filtering with Low Number of Parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011736)
 >Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
 
-## 📽️ Other visual tasks
+## 📽️ Other vision tasks
 - ``PR 2025`` [CLTR: Continual Learning Time-varying Regularization for Robust Classification of Noisy Label Images](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007976)
 >Y. Li#, **Z. Guo**#, and L. Wang\*. Pattern Recognition, 2025. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/CLTR)
 
