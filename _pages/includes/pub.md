@@ -58,14 +58,14 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 <!-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) -->
 
 ## 🏥 Medical Image Processing
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/smp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SimMPNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Similarity Memory Prior is All You Need for Medical Image Segmentation](https://arxiv.org/abs/2507.00585) \\
 H. Tang, **Z. Guo**\*, L. Wang\*, and C. Liu.
 IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highlight Paper) [[**Code**]](https://github.com/vpsg-research/Sim-MPNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- This paper breaks the limitations of traditional methods and construct a novel medical image segmentation network.
+- This paper breaks through the limitations of traditional methods and constructs a medical image segmentation network based on category modeling.
 </div>
 </div>
 
