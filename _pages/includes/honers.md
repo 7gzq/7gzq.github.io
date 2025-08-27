@@ -1,4 +1,7 @@
 # 🤝 Academic Services
+Associate Editor：
+- International Journal of Autonomous and Adaptive Communications Systems
+
 Technical Committee：
 - Member, China Society of Image and Graphics (CSIG), Digital Forensics and Security Technical Committee.
 - Member, China Computer Federation (CCF), Computer Vision Technical Committee.
@@ -18,5 +21,5 @@ Journal Reviewer:
 - Knowledge-Based Systems
 
 Conference Reviewer:
-- ACM Multimedia
+- AAAI Conference on Artificial Intelligence
 - International Conference on Multimedia and Expo
