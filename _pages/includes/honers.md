@@ -1,5 +1,5 @@
 # 🤝 Academic Services
-Associate Editor：
+Editorial Board Member：
 - International Journal of Autonomous and Adaptive Communications Systems
 
 Technical Committee：
