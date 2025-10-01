@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2025/10/01] 🎉 One paper was accepted by Information Fusion!</li>
   <li> [2025/08/23] 🎉 One paper was accepted by PRCV 2025!</li>
   <li> [2025/07/11] 🎉 One paper was accepted by PR!</li>
   <li> [2025/06/26] 🎉 One paper was accepted by ICCV 2025 (Highlight Paper)!</li>
