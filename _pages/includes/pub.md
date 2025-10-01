@@ -45,7 +45,7 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 - ``arXiv 2025`` [WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://arxiv.org/abs/2505.08614)
 >Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, D. Ma\*. arXiv:2505.08614, 2025. [[**Code**]](https://github.com/vpsg-research/WaveGuard)
 - ``INFFUS 2025`` [DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://arxiv.org/abs/2507.01428)
->C. Sun, H. Sun, **Z. Guo**\*, Y. Diao, L. Wang, D. Ma\*, G. Yang, and K. Li. arXiv:2507.01428, 2025. [[**Code**]](https://github.com/vpsg-research/DiffMark)
+>C. Sun, H. Sun, **Z. Guo**\*, Y. Diao, L. Wang, D. Ma\*, and G. Yang. Information Fusion, 2025. （Top Journal）[[**Code**]](https://github.com/vpsg-research/DiffMark)
 - ``ESWA 2023`` [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
 >**Z. Guo**, G. Yang\*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[**Code**]](https://github.com/EricGzq/GocNet-pytorch)
 - ``CVIU 2023`` [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
