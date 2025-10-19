@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2025/10/19] 🎉 One paper was accepted by KBS!</li>
   <li> [2024/10/16] 🏆 We won the Best Student Paper Award at the 2025 PRCV Conference!</li>
   <li> [2025/10/01] 🎉 One paper was accepted by Information Fusion!</li>
   <li> [2025/08/23] 🎉 One paper was accepted by PRCV 2025!</li>
