@@ -1,4 +1,4 @@
-
+<img width="3120" height="2080" alt="image" src="https://github.com/user-attachments/assets/71e4cb6a-1192-4e28-b14d-6f0eeeb8c368" />
 # 📝 Publications 
 NOTE: Corresponding Authors *, Equal Contribution #
 ## 🧙‍♂️ Deepfake Detection
@@ -41,17 +41,24 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 </div>
 
 
-
 - ``arXiv 2025`` [WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://arxiv.org/abs/2505.08614)
 >Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, D. Ma\*. arXiv:2505.08614, 2025. [[**Code**]](https://github.com/vpsg-research/WaveGuard)
-- ``INFFUS 2025`` [DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://arxiv.org/abs/2507.01428)
+
+- ``KBS 2025`` [KAD-Net: Kolmogorov-Arnold and Differential-Aware Networks for Robust and Sensitive Proactive Deepfake Forensics](https://www.sciencedirect.com/science/article/abs/pii/S0950705125017319?via%3Dihub)
+>S. He, Y. Diao, Y. Li, C. Sun, L. Wang\*, and **Z. Guo**\*. Knowledge-Based Systems, 2025. （Top Journal）[[**Code**]](https://github.com/vpsg-research/KAD-Net)
+
+- ``INFFUS 2025`` [DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://www.sciencedirect.com/science/article/pii/S1566253525008632?dgcid=author)
 >C. Sun, H. Sun, **Z. Guo**\*, Y. Diao, L. Wang, D. Ma\*, and G. Yang. Information Fusion, 2025. （Top Journal）[[**Code**]](https://github.com/vpsg-research/DiffMark)
+
 - ``ESWA 2023`` [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
 >**Z. Guo**, G. Yang\*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[**Code**]](https://github.com/EricGzq/GocNet-pytorch)
+
 - ``CVIU 2023`` [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
 >**Z. Guo**, G. Yang\*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF-B) [[**Code**]](https://github.com/EricGzq/MSF)
+
 - ``CVIU 2021`` [Fake Face Detection via Adaptive Manipulation Traces Extraction Network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
 >**Z. Guo**, G. Yang\*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF-B) [[**Code**]](https://github.com/EricGzq/AMTENnet) [[**Dataset**]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+
 - ``MTA 2021`` [Blind Detection of Glow-based Facial Forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
 >**Z. Guo**, L. Hu, M. Xia, and G. Yang\*. Multimedia Tools and Applications, 2021. (CCF-C) [[**Dataset**]](https://github.com/EricGzq/GFF-Dataset)
 
