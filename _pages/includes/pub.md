@@ -71,7 +71,7 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 H. Tang, **Z. Guo**\*, L. Wang\*, and C. Liu.
 IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highlight Paper) [[**Code**]](https://github.com/vpsg-research/Sim-MPNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- This paper breaks through the limitations of traditional methods and constructs a medical image segmentation network based on category modeling.
+- This paper breaks through the limitations of traditional methods and constructs a category modeling based medical image segmentation network.
 </div>
 </div>
 
