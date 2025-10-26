@@ -1,4 +1,3 @@
-<img width="3120" height="2080" alt="image" src="https://github.com/user-attachments/assets/71e4cb6a-1192-4e28-b14d-6f0eeeb8c368" />
 # 📝 Publications 
 NOTE: Corresponding Authors *, Equal Contribution #
 ## 🧙‍♂️ Deepfake Detection
