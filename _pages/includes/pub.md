@@ -2,6 +2,19 @@
 NOTE: Corresponding Authors *, Equal Contribution #
 ## 🧙‍♂️ Deepfake Detection
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TCSVT 2025</div><img src='images/waveguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://arxiv.org/abs/2505.08614) \\
+Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, and D. Ma\*. 
+IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, Top Journal)
+
+[[**Code**]](https://github.com/vpsg-research/WaveGuard) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This work proposes a proactive watermarking framework, which explores frequency domain embedding and graph-based structural consistency optimization.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TIFS 2024</div><img src='images/sfic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -40,8 +53,6 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 </div>
 
 
-- ``arXiv 2025`` [WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://arxiv.org/abs/2505.08614)
->Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, D. Ma\*. arXiv:2505.08614, 2025. [[**Code**]](https://github.com/vpsg-research/WaveGuard)
 
 - ``KBS 2025`` [KAD-Net: Kolmogorov-Arnold and Differential-Aware Networks for Robust and Sensitive Proactive Deepfake Forensics](https://www.sciencedirect.com/science/article/abs/pii/S0950705125017319?via%3Dihub)
 >S. He, Y. Diao, Y. Li, C. Sun, L. Wang\*, and **Z. Guo**\*. Knowledge-Based Systems, 2025. （Top Journal）[[**Code**]](https://github.com/vpsg-research/KAD-Net)
