@@ -8,7 +8,6 @@ NOTE: Corresponding Authors *, Equal Contribution #
 [WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://arxiv.org/abs/2505.08614) \\
 Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, and D. Ma\*. 
 IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, Top Journal)
-
 [[**Code**]](https://github.com/vpsg-research/WaveGuard) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - This work proposes a proactive watermarking framework, which explores frequency domain embedding and graph-based structural consistency optimization.
@@ -21,7 +20,6 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, To
 [Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/document/10286083) \\
 **Z. Guo**, Z. Jia\*, L. Wang, D. Wang, G. Yang\*, and N. Kasabov.
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2024, doi: 10.1109/TIFS.2023.3324739. (CCF-A, Top Journal)
-
 [[**Code**]](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - This work proposes a new detection paradigm for deepfake detection.
@@ -80,7 +78,8 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
   
 [Similarity Memory Prior is All You Need for Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Tang_Similarity_Memory_Prior_is_All_You_Need_for_Medical_Image_ICCV_2025_paper.html) \\
 H. Tang, **Z. Guo**\*, L. Wang\*, and C. Liu.
-IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highlight Paper) [[**Code**]](https://github.com/vpsg-research/Sim-MPNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highlight Paper) 
+[[**Code**]](https://github.com/vpsg-research/Sim-MPNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - This paper breaks through the limitations of traditional methods and constructs a category modeling based medical image segmentation network.
 </div>
