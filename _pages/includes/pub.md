@@ -5,7 +5,7 @@ NOTE: Corresponding Authors *, Equal Contribution #
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TCSVT 2025</div><img src='images/waveguard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://arxiv.org/abs/2505.08614) \\
+[WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://ieeexplore.ieee.org/document/11224900) \\
 Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, and D. Ma\*. 
 IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, Top Journal)
 [[**Code**]](https://github.com/vpsg-research/WaveGuard) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
