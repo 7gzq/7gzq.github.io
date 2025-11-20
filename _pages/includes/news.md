@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2025/11/20] 🎉 One paper was accepted by EAAI!</li>
   <li> [2025/11/08] 🎉 Three papers were accepted by AAAI 2026!</li>
   <li> [2025/10/30] 🎉 One paper was accepted by TCSVT!</li>
   <li> [2025/10/19] 🎉 One paper was accepted by KBS!</li>
