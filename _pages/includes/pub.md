@@ -67,10 +67,22 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 - ``CVIU 2021`` [Fake Face Detection via Adaptive Manipulation Traces Extraction Network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
 >**Z. Guo**, G. Yang\*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF-B) [[**Code**]](https://github.com/EricGzq/AMTENnet) [[**Dataset**]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 
-- ``MTA 2021`` [Blind Detection of Glow-based Facial Forgery](https://link.springer.com/article/10.1007/s11042-020-10098-y)
->**Z. Guo**, L. Hu, M. Xia, and G. Yang\*. Multimedia Tools and Applications, 2021. (CCF-C) [[**Dataset**]](https://github.com/EricGzq/GFF-Dataset)
 
 <!-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) -->
+
+## 🔎 Manipulation Detection and Location
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SCAF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization](https://arxiv.org/abs/2507.13018) \\
+S. Li, G. Yu, **Z. Guo**\*, Y. Diao, D. Ma, and G. Yang.
+Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A) 
+[[**Code**]](https://github.com/vpsg-research/SCAF) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This study introduces a novel weakly-supervised framework for image manipulation localization using only scribble annotations, which outperforms fully-supervised methods by employing self-supervised consistency, dynamic feature modulation, and entropy minimization.
+</div>
+</div>
+
 
 ## 🏥 Medical Image Processing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/SimMPNet.png' alt="sym" width="100%"></div></div>
