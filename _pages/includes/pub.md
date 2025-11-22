@@ -1,6 +1,18 @@
 # 📝 Publications 
 NOTE: Corresponding Authors *, Equal Contribution #
 ## 🧙‍♂️ Deepfake Detection
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/MEA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://arxiv.org/abs/2508.17247) \\
+L. Jia #, H. Sun #, **Z. Guo**\*, Y. Diao, D. Ma, G. Yang.
+Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A)
+[[**Code**]](https://github.com/vpsg-research/MEA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This work first defines and validates Multi-Embedding Attacks in proactive face forensics.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TCSVT 2025</div><img src='images/waveguard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
