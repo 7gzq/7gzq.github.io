@@ -116,7 +116,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highl
 >Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
 
 ## 📽️ Other Vision Tasks
-- ``EAAI 2026`` [Multi-angle feature enhancement for multi-defect category insulator defect detection in the wild](https://www.sciencedirect.com/science/article/pii/S0952197625033287?dgcid=author)
+- ``EAAI 2026`` [Multi-angle Feature Enhancement for Multi-defect Category Insulator Defect Detection in the Wild](https://www.sciencedirect.com/science/article/pii/S0952197625033287?dgcid=author)
 >Z. Yang#, **Z. Guo**#, and L. Wang\*. Engineering Applications of Artificial Intelligence, 2026. (Top Journal) [[**Code**]](https://github.com/1wsxiao/BDD-Net)
 
 - ``PR 2025`` [CLTR: Continual Learning Time-varying Regularization for Robust Classification of Noisy Label Images](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007976)
