@@ -46,7 +46,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 **Z. Guo**, L. Wang\*, W. Yang, G. Yang\*, and K. Li.
 IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 2, pp. 1255-1265, 2024, doi: 10.1109/TCSVT.2023.3289147.（CCF-B, Top Journal）
 
-- This work achieves an superior accuracy-efficiency trade-off in face forgery detection by effectively integrating local artifact and global texture clues with minimal parameters and computational cost.
+- This work achieves a superior accuracy-efficiency trade-off in face forgery detection by effectively integrating local artifact and global texture clues with minimal parameters and computational cost.
 </div>
 </div>
 
