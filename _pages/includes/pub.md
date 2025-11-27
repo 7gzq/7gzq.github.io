@@ -9,7 +9,7 @@ L. Jia #, H. Sun #, **Z. Guo**\*, Y. Diao, D. Ma, G. Yang.
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A)
 [[**Code**]](https://github.com/vpsg-research/MEA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- This work first defines and validates Multi-Embedding Attacks in proactive face forensics.
+- This work identifies the Multi-Embedding Attack (MEA) threat to deepfake watermarks and introduces Adversarial Interference Simulation (AIS), a plug-and-play training paradigm that equips existing methods with robust resistance against such attacks.
 </div>
 </div>
 
