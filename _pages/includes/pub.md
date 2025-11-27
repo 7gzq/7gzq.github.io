@@ -34,7 +34,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, To
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2024, doi: 10.1109/TIFS.2023.3324739. (CCF-A, Top Journal)
 [[**Code**]](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- This work proposes a new detection paradigm for deepfake detection.
+- This work introduces a novel Space-Frequency Interactive Convolution (SFIConv) that seamlessly upgrades existing backbones to more effectively capture and model deepfake artifacts, significantly boosting detection accuracy and cross-dataset generalization.
 </div>
 </div>
 
@@ -46,7 +46,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 **Z. Guo**, L. Wang\*, W. Yang, G. Yang\*, and K. Li.
 IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 2, pp. 1255-1265, 2024, doi: 10.1109/TCSVT.2023.3289147.（CCF-B, Top Journal）
 
-- This work proposes an unified end-to-end framework, which can realize efficient deepfake detection.
+- This work presents LDFnet, a lightweight dynamic fusion network that achieves an superior accuracy-efficiency trade-off in face forgery detection by effectively integrating local artifact and global texture clues with minimal parameters and computational cost.
 </div>
 </div>
 
