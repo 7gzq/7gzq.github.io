@@ -14,7 +14,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TCSVT 2025</div><img src='images/waveguard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/waveguard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://ieeexplore.ieee.org/document/11224900) \\
@@ -26,7 +26,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, To
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TIFS 2024</div><img src='images/sfic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2024</div><img src='images/sfic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/document/10286083) \\
@@ -39,7 +39,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TCSVT 2024</div><img src='images/ldf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/ldf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information](https://ieeexplore.ieee.org/document/10163252) \\
@@ -51,7 +51,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 2, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TMM 2023</div><img src='images/guidedres.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/guidedres.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352) \\
@@ -94,6 +94,21 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 - This study introduces a novel weakly-supervised framework for image manipulation localization using only scribble annotations, which outperforms fully-supervised methods by employing self-supervised consistency, dynamic feature modulation, and entropy minimization.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/BoxPromptIML.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations](https://arxiv.org/abs/2511.20359) \\
+**Z. Guo**#, D. Xi#, S. Li*, and G. Yang.
+Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A) 
+[[**Code**]](https://github.com/vpsg-research/BoxPromtIML) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This paper achieves fine-grained image manipulation localization with minimal annotation cost by leveraging coarse box prompts and a subconscious memory-inspired feature fusion strategy.
+</div>
+</div>
+
+
 
 
 ## 🏥 Medical Image Processing
