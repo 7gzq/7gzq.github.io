@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2026/02/21] 🎉 One paper was accepted by CVPR!</li>
   <li> [2026/01/18] 🎉 Two papers were accepted by ICASSP 2026!</li>
   <li> [2025/12/17] 🎓 I was awarded a senior member by China Society of Image and Graphics!</li>
   <li> [2025/11/20] 🎉 One paper was accepted by EAAI!</li>
@@ -14,13 +15,13 @@
   <li> [2025/06/26] 🎉 One paper was accepted by ICCV 2025 (Highlight Paper)!</li>
   <li> [2025/04/28] 🎉 Three papers (2 oral, 1 poster) were accepted by ICIC 2025!</li>
   <li> [2025/03/21] 🎉 One paper was accepted by ICME 2025!</li>
-  <li> [2025/02/06] 🎉 One paper was accepted by IVC!</li>
-  <li> [2025/01/04] 🎉 One paper was accepted by Information Fusion!</li>
 </div>
 
 <details id="oldNews">
   <summary class="more-button">  >> More</summary>
   <div class="older-news">
+    <li> [2025/02/06] 🎉 One paper was accepted by IVC!</li>
+    <li> [2025/01/04] 🎉 One paper was accepted by Information Fusion!</li>
     <li> [2024/12/21] 🎉 Three papers were accepted by ICASSP 2025!</li>
     <li> [2024/10/28] 🎉 One paper was accepted by ESWA!</li>
     <li> [2024/10/27] 🏆 We won the Outstanding Paper Award in the 5th CSIG ChinaMFS Conference.</li>
