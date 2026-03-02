@@ -7,7 +7,7 @@ NOTE: Corresponding Authors *, Equal Contribution #
 [All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark](https://arxiv.org/abs/2602.23523) \\
 J. Wu, L. Wang *, and **Z. Guo**\*.
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
-[[**Code**]](https://github.com/vpsg-research/LIDMark) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[[**Project Page**]](https://junjiang-wu.github.io/projects/lidmark/) [[**Code**]](https://github.com/vpsg-research/LIDMark) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - This work proposes an "All-in-One" proactive forensics framework, which aims to bring the three core tasks of deepfake detection, tampering location and source tracing into a unified framework.
 </div>
