@@ -70,7 +70,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 2, 
 
 [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352) \\
 **Z. Guo**, G. Yang\*, J. Chen, and X. Sun.
-IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.2023.3237169.（CCF-B, Top Journal）
+IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.2023.3237169.（CCF-A, Top Journal）
 
 - This work expands the applications of the guided filter, and overcomes the potential bias in the prediction-based residuals.
 </div>
