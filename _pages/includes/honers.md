@@ -22,4 +22,5 @@ Journal Reviewer:
 
 Conference Reviewer:
 - AAAI Conference on Artificial Intelligence
-- International Conference on Multimedia and Expo
+- International Conference on Machine Learning
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition
