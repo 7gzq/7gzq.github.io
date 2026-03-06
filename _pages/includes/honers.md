@@ -15,10 +15,6 @@ Journal Reviewer:
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Cybernetics
 - ACM Transactions on Multimedia Computing, Communications, and Applications
-- Pattern Recognition
-- Computer Vision and Image Understanding
-- Information Fusion
-- Knowledge-Based Systems
 
 Conference Reviewer:
 - AAAI Conference on Artificial Intelligence
