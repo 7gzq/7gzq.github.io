@@ -1,12 +1,13 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2026/03/12] 🎉 One paper was accepted by IEEE TIFS!</li>
   <li> [2026/02/21] 🎉 One paper was accepted by CVPR 2026!</li>
   <li> [2026/01/18] 🎉 Two papers were accepted by ICASSP 2026!</li>
   <li> [2025/12/17] 🎓 I was awarded a senior member by China Society of Image and Graphics!</li>
   <li> [2025/11/20] 🎉 One paper was accepted by EAAI!</li>
   <li> [2025/11/08] 🎉 Three papers were accepted by AAAI 2026!</li>
-  <li> [2025/10/30] 🎉 One paper was accepted by TCSVT!</li>
+  <li> [2025/10/30] 🎉 One paper was accepted by IEEE TCSVT!</li>
   <li> [2025/10/19] 🎉 One paper was accepted by KBS!</li>
   <li> [2025/10/16] 🏆 We won the Best Student Paper Award at the 2025 PRCV Conference!</li>
   <li> [2025/10/01] 🎉 One paper was accepted by Information Fusion!</li>
