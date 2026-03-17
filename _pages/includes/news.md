@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2026/03/17] 🎉 One paper was accepted by ICME 2026!</li>
   <li> [2026/03/11] 🎉 One paper was accepted by IEEE TIFS!</li>
   <li> [2026/02/21] 🎉 One paper was accepted by CVPR 2026!</li>
   <li> [2026/01/18] 🎉 Two papers were accepted by ICASSP 2026!</li>
