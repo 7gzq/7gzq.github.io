@@ -4,7 +4,7 @@ NOTE: Corresponding Authors *, Equal Contribution #
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2026</div><img src='images/TSDF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption and Poisoning Against Deepfake](https://arxiv.org/abs/2508.07795) \\
+[Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption and Poisoning Against Deepfake](https://ieeexplore.ieee.org/document/11436061) \\
 H. Zheng, Y. Li, L. Wang\*, Y. Diao, and **Z. Guo**\*.
 IEEE Transactions on Information Forensics and Security, 2026. (CCF-A, Top Journal)
 [[**Code**]](https://github.com/vpsg-research/TSDF) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
