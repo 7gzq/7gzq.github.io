@@ -112,6 +112,20 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 <!-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) -->
 
 ## 🔎 Manipulation Detection and Location
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/PNFNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Prototype Memory-based Neighboring Feature Fusion Network for Image Manipulation Localization](https://ieeexplore.ieee.org/document/11460213) \\ 
+S. Li, **Z. Guo**\*, C. Miao, W. Yang, L. Wang, G. Yang, and Xin Liao.
+IEEE Transactions on Circuits and Systems for Video Technology, 2026. (CCF-B, Top Journal)
+[[**Code**]](https://github.com/vpsg-research/PNF-Net) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This paper proposes PNF-Net, which uses memory priors and neighboring feature interactions to accurately segment manipulated regions, overcoming the limitations of passive inconsistency modeling.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SCAF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
