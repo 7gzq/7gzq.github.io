@@ -5,7 +5,7 @@ NOTE: Corresponding Authors *, Equal Contribution #
 <div class='paper-box-text' markdown="1">
 
 [Boosting Active Defense Persistence: A Two-Stage Defense Framework Combining Interruption and Poisoning Against Deepfake](https://ieeexplore.ieee.org/document/11436061) \\
-H. Zheng, Y. Li, L. Wang\*, Y. Diao, and **Z. Guo**\*.
+>H. Zheng, Y. Li, L. Wang\*, Y. Diao, and **Z. Guo**\*.
 IEEE Transactions on Information Forensics and Security, 2026. (CCF-A, Top Journal)
 [[**Code**]](https://github.com/vpsg-research/TSDF) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -18,7 +18,7 @@ IEEE Transactions on Information Forensics and Security, 2026. (CCF-A, Top Journ
 <div class='paper-box-text' markdown="1">
   
 [All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark](https://arxiv.org/abs/2602.23523) \\
-J. Wu, L. Wang *, and **Z. Guo**\*.
+>J. Wu, L. Wang *, and **Z. Guo**\*.
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
 [[**Project Page**]](https://junjiang-wu.github.io/projects/lidmark/) [[**Code**]](https://github.com/vpsg-research/LIDMark) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -31,7 +31,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <div class='paper-box-text' markdown="1">
   
 [Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://arxiv.org/abs/2508.17247) \\
-L. Jia #, H. Sun #, **Z. Guo**\*, Y. Diao, D. Ma, and G. Yang.
+>L. Jia #, H. Sun #, **Z. Guo**\*, Y. Diao, D. Ma, and G. Yang.
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A)
 [[**Project Page**]](https://sunsealucky.github.io/MEA-Web/) [[**Code**]](https://github.com/vpsg-research/MEA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -44,7 +44,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 <div class='paper-box-text' markdown="1">
   
 [WaveGuard: Robust Deepfake Detection and Source Tracing via Dual-Tree Complex Wavelet and Graph Neural Networks](https://ieeexplore.ieee.org/document/11224900) \\
-Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, and D. Ma\*. 
+>Z. He, **Z. Guo**\*, L. Wang, G. Yang, Y. Diao, and D. Ma\*. 
 IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, Top Journal)
 [[**Code**]](https://github.com/vpsg-research/WaveGuard) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -66,7 +66,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, To
 <div class='paper-box-text' markdown="1">
 
 [Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/document/10286083) \\
-**Z. Guo**, Z. Jia\*, L. Wang, D. Wang, G. Yang\*, and N. Kasabov.
+>**Z. Guo**, Z. Jia\*, L. Wang, D. Wang, G. Yang\*, and N. Kasabov.
 IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2024, doi: 10.1109/TIFS.2023.3324739. (CCF-A, Top Journal)
 [[**Code**]](https://github.com/EricGzq/SFIConv) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -79,7 +79,7 @@ IEEE Transactions on Information Forensics and Security, vol. 19, pp. 401-413, 2
 <div class='paper-box-text' markdown="1">
 
 [LDFnet: Lightweight Dynamic Fusion Network for Face Forgery Detection by Integrating Local Artifacts and Global Texture Information](https://ieeexplore.ieee.org/document/10163252) \\
-**Z. Guo**, L. Wang\*, W. Yang, G. Yang\*, and K. Li.
+>**Z. Guo**, L. Wang\*, W. Yang, G. Yang\*, and K. Li.
 IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 2, pp. 1255-1265, 2024, doi: 10.1109/TCSVT.2023.3289147.（CCF-B, Top Journal）
 
 - This work achieves a superior accuracy-efficiency trade-off in face forgery detection by effectively integrating local artifact and global texture clues with minimal parameters and computational cost.
@@ -91,7 +91,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 2, 
 <div class='paper-box-text' markdown="1">
 
 [Exposing Deepfake Face Forgeries with Guided Residuals](https://ieeexplore.ieee.org/document/10017352) \\
-**Z. Guo**, G. Yang\*, J. Chen, and X. Sun.
+>**Z. Guo**, G. Yang\*, J. Chen, and X. Sun.
 IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.2023.3237169.（CCF-A, Top Journal）
 
 - This work expands the applications of the guided filter, and overcomes the potential bias in the prediction-based residuals.
@@ -117,7 +117,7 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 <div class='paper-box-text' markdown="1">
   
 [Prototype Memory-based Neighboring Feature Fusion Network for Image Manipulation Localization](https://ieeexplore.ieee.org/document/11460213) \\ 
-S. Li, **Z. Guo**\*, C. Miao, W. Yang, L. Wang, G. Yang, and Xin Liao.
+>S. Li, **Z. Guo**\*, C. Miao, W. Yang, L. Wang, G. Yang, and Xin Liao.
 IEEE Transactions on Circuits and Systems for Video Technology, 2026. (CCF-B, Top Journal)
 [[**Code**]](https://github.com/vpsg-research/PNF-Net) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -130,7 +130,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2026. (CCF-B, To
 <div class='paper-box-text' markdown="1">
   
 [Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization](https://arxiv.org/abs/2507.13018) \\
-S. Li, G. Yu, **Z. Guo**\*, Y. Diao, D. Ma, and G. Yang.
+>S. Li, G. Yu, **Z. Guo**\*, Y. Diao, D. Ma, and G. Yang.
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A) 
 [[**Code**]](https://github.com/vpsg-research/SCAF) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -143,7 +143,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 <div class='paper-box-text' markdown="1">
   
 [From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations](https://arxiv.org/abs/2511.20359) \\
-**Z. Guo**#, D. Xi#, S. Li*, and G. Yang.
+>**Z. Guo**#, D. Xi#, S. Li*, and G. Yang.
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A) 
 [[**Code**]](https://github.com/vpsg-research/BoxPromtIML) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
@@ -159,7 +159,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 <div class='paper-box-text' markdown="1">
   
 [Similarity Memory Prior is All You Need for Medical Image Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Tang_Similarity_Memory_Prior_is_All_You_Need_for_Medical_Image_ICCV_2025_paper.html) \\
-H. Tang, **Z. Guo**\*, L. Wang\*, and C. Liu.
+>H. Tang, **Z. Guo**\*, L. Wang\*, and C. Liu.
 IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highlight Paper) 
 [[**Code**]](https://github.com/vpsg-research/Sim-MPNet) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
