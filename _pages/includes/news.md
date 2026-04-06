@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2026/04/04] 🎉 One paper was accepted by Neural Networks!</li>
   <li> [2026/03/27] 🎉 One paper was accepted by IEEE TCSVT!</li>
   <li> [2026/03/17] 🎉 One paper was accepted by ICME 2026!</li>
   <li> [2026/03/11] 🎉 One paper was accepted by IEEE TIFS!</li>
