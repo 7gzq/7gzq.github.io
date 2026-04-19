@@ -174,6 +174,9 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highl
 >Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
 
 ## 📽️ Other Vision Tasks
+- ``NN 2026`` [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120?via%3Dihub)
+>S. Shen, Z. Guo, Y. Li, L. Wang\*, and Z. Guo\*. Neural Networks, 2026. (Top Journal) [[**Code**]](https://github.com/vpsg-research/TrCLIP-VAD)
+
 - ``EAAI 2026`` [Multi-angle Feature Enhancement for Multi-defect Category Insulator Defect Detection in the Wild](https://www.sciencedirect.com/science/article/pii/S0952197625033287?dgcid=author)
 >Z. Yang#, **Z. Guo**#, and L. Wang\*. Engineering Applications of Artificial Intelligence, 2026. (Top Journal) [[**Code**]](https://github.com/1wsxiao/BDD-Net)
 
