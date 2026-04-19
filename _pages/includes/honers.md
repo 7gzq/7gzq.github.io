@@ -13,16 +13,16 @@ Technical Committee：
 - Member, China Computer Federation (CCF), Artificial Intelligence and Pattern Recognition Technical Committee.
 
 Journal Reviewer:
-- IEEE Transactions on Pattern Analysis and Machine Intelligence
-- IEEE Transactions on Information Forensics and Security
-- IEEE Transactions on Dependable and Secure Computing
-- IEEE Transactions on Multimedia
-- IEEE Transactions on Circuits and Systems for Video Technology
-- IEEE Transactions on Cybernetics
-- ACM Transactions on Multimedia Computing, Communications, and Applications
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+- IEEE Transactions on Information Forensics and Security (TIFS)
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Cybernetics (TCYB)
+- ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
 
 Conference Reviewer:
-- International Conference on Machine Learning
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition
-- AAAI Conference on Artificial Intelligence
+- International Conference on Machine Learning (ICML)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- AAAI Conference on Artificial Intelligence (AAAI)
 
