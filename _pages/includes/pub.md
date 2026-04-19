@@ -174,7 +174,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highl
 >Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
 
 ## 📽️ Other Vision Tasks
-- ``NN 2026`` [TrCLIP-VAD: Weak supervised video anomaly detection by improving CLIP training with text rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120?via%3Dihub)
+- ``NN 2026`` [TrCLIP-VAD: Weak Supervised Video Anomaly Detection by Improving CLIP Training with Text Rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120?via%3Dihub)
 >S. Shen, Z. Guo, Y. Li, L. Wang\*, and **Z. Guo**\*. Neural Networks, 2026. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/TrCLIP-VAD)
 
 - ``EAAI 2026`` [Multi-angle Feature Enhancement for Multi-defect Category Insulator Defect Detection in the Wild](https://www.sciencedirect.com/science/article/pii/S0952197625033287?dgcid=author)
@@ -186,7 +186,7 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highl
 - ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
 >Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （Top Journal） [[**Code**]](https://github.com/vpsg-research/CTIFTrack)
 
-- ``IPM 2024`` [TBC-MI : Suppressing noise labels by maximizing cleaning samples for robust image classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
+- ``IPM 2024`` [TBC-MI : Suppressing Noise Labels by Maximizing Cleaning Samples for Robust Image Classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
 >Y. Li, **Z. Guo**, L. Wang\*, and L. Xu. Information Processing & Management, 2024. (CCF-B, Top Journal)
 
 - ``ACM-TOMM 2023`` [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
