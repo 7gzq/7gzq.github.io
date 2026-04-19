@@ -1,5 +1,5 @@
 # 🤝 Academic Services
-Conference Committee
+Conference Committee:
 - International Joint Conference on Artificial Intelligence (IJCAI 2026) Workshop on "DDL 2.0: AIGC Safety from Dual Perspectives of Model and Content", Chief Organizer
 - CSIG China Conference on Media Forensics and Security (ChinaMFS 2026), Program Committee Chair
 - International Conference on Frontiers of Artificial Intelligence and Machine Learning (FAIML 2026), Publicity Chairs
@@ -7,7 +7,7 @@ Conference Committee
 Journal Editorial Board：
 - International Journal of Autonomous and Adaptive Communications Systems, 2025-present
 
-Technical Committee：
+Technical Committee:
 - Member, China Society of Image and Graphics (CSIG), Digital Forensics and Security Technical Committee.
 - Member, China Computer Federation (CCF), Computer Vision Technical Committee.
 - Member, China Computer Federation (CCF), Artificial Intelligence and Pattern Recognition Technical Committee.
