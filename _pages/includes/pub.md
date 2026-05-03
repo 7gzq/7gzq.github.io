@@ -30,7 +30,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/MEA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://arxiv.org/abs/2508.17247) 
+[Uncovering and Mitigating Destructive Multi-Embedding Attacks in Deepfake Proactive Forensics](https://ojs.aaai.org/index.php/AAAI/article/view/37010) 
 >L. Jia #, H. Sun #, **Z. Guo**\*, Y. Diao, D. Ma, and G. Yang.
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A)
 [[**Project Page**]](https://sunsealucky.github.io/MEA-Web/) [[**Code**]](https://github.com/vpsg-research/MEA) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -129,7 +129,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2026. (CCF-B, To
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SCAF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization](https://arxiv.org/abs/2507.13018) 
+[Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization](https://ojs.aaai.org/index.php/AAAI/article/view/37033) 
 >S. Li, G. Yu, **Z. Guo**\*, Y. Diao, D. Ma, and G. Yang.
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A) 
 [[**Code**]](https://github.com/vpsg-research/SCAF) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
@@ -142,7 +142,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/BoxPromptIML.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations](https://arxiv.org/abs/2511.20359) 
+[From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations](https://ojs.aaai.org/index.php/AAAI/article/view/36995) 
 >**Z. Guo**#, D. Xi#, S. Li*, and G. Yang.
 Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF-A) 
 [[**Code**]](https://github.com/vpsg-research/BoxPromtIML) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
