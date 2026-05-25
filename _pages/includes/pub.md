@@ -159,10 +159,10 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/CAME-Grad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[The Double Dilemma in Multi-Task Radiology Report Generation: A Gradient Dynamics Analysis and Solution]() 
+[The Double Dilemma in Multi-Task Radiology Report Generation: A Gradient Dynamics Analysis and Solution](https://arxiv.org/abs/2605.22635) 
 >E. Zhang, Y. Hao, L. Wang\*, and **Z. Guo**\*.
 International Conference on Machine Learning (ICML), 2026. (CCF-A) 
-[[**Code**]](https://github.com/vpsg-research/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[[**Code**]](https://github.com/vpsg-research/CAME-Grad) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - This paper proposes CAME-Grad, a plug-and-play optimizer that resolves gradient conflicts and boosts clinical performance in radiology report generation.
 </div>
