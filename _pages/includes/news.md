@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2026/05/29] 🎤 I was invited to participate in the CCIG 2026 and gave a report.</li>
   <li> [2026/05/01] 🎉 One paper was accepted by ICML 2026!</li>
   <li> [2026/04/20] 🏆 We organized an IJCAI Workshop (https://ai-safety-workshop-ijcai2026.github.io/)!</li>
   <li> [2026/04/04] 🎉 One paper was accepted by Neural Networks!</li>
