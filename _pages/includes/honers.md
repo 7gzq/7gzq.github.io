@@ -17,6 +17,7 @@ Journal Reviewer:
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Medical Imaging (TMI)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Cybernetics (TCYB)
 - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
