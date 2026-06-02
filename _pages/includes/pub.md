@@ -17,7 +17,7 @@ IEEE Transactions on Information Forensics and Security, 2026. (CCF-A, Top Journ
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/LIDMark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark](https://arxiv.org/abs/2602.23523) 
+[All in One: Unifying Deepfake Detection, Tampering Localization, and Source Tracing with a Robust Landmark-Identity Watermark](https://openaccess.thecvf.com/content/CVPR2026/html/Wu_All_in_One_Unifying_Deepfake_Detection_Tampering_Localization_and_Source_CVPR_2026_paper.html) 
 >J. Wu, L. Wang *, and **Z. Guo**\*.
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026. (CCF-A)
 [[**Project Page**]](https://junjiang-wu.github.io/projects/lidmark/) [[**Code**]](https://github.com/vpsg-research/LIDMark) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
