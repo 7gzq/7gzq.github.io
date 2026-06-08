@@ -1,6 +1,20 @@
 # 📝 Publications 
 NOTE: Corresponding Authors *, Equal Contribution #
 ## 🏁 Proactive Deepfake Detection
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/segfacemark.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[One-Identity-One-Key: Region-aware Watermark for Proactive Deepfake Detection and Robust Source Tracing](https://ieeexplore.ieee.org/document/11552736) 
+>Z. He, **Z. Guo**\*, L. Wang, X. Tao, and X. Liao. 
+IEEE Transactions on Circuits and Systems for Video Technology, 2026. (CCF-B, Top Journal)
+[[**Code**]](https://github.com/vpsg-research/Segfacemark) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This work proposes a region-aware watermark to create a unique "identity lock" for each face.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2026</div><img src='images/TSDF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
