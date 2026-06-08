@@ -21,13 +21,13 @@
   <li> [2025/08/23] 🎉 One paper was accepted by PRCV 2025!</li>
   <li> [2025/07/11] 🎉 One paper was accepted by PR!</li>
   <li> [2025/06/26] 🎉 One paper was accepted by ICCV 2025 (Highlight Paper)!</li>
-  <li> [2025/04/28] 🎉 Three papers (2 oral, 1 poster) were accepted by ICIC 2025!</li>
-  <li> [2025/03/21] 🎉 One paper was accepted by ICME 2025!</li>
 </div>
 
 <details id="oldNews">
   <summary class="more-button">  >> More</summary>
   <div class="older-news">
+    <li> [2025/04/28] 🎉 Three papers (2 oral, 1 poster) were accepted by ICIC 2025!</li>
+    <li> [2025/03/21] 🎉 One paper was accepted by ICME 2025!</li>
     <li> [2025/02/06] 🎉 One paper was accepted by IVC!</li>
     <li> [2025/01/04] 🎉 One paper was accepted by Information Fusion!</li>
     <li> [2024/12/21] 🎉 Three papers were accepted by ICASSP 2025!</li>
