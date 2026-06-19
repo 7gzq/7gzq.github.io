@@ -7,7 +7,7 @@
   <li> [2026/04/20] 🏆 We organized an IJCAI Workshop (https://ai-safety-workshop-ijcai2026.github.io/)!</li>
   <li> [2026/04/04] 🎉 One paper was accepted by Neural Networks!</li>
   <li> [2026/03/27] 🎉 One paper was accepted by IEEE TCSVT!</li>
-  <li> [2026/03/17] 🎉 One paper was accepted by ICME 2026!</li>
+  <li> [2026/03/17] 🎉 One paper was accepted by ICME 2026（Spotlight）!</li>
   <li> [2026/03/11] 🎉 One paper was accepted by IEEE TIFS!</li>
   <li> [2026/02/21] 🎉 One paper was accepted by CVPR 2026 (Highlight Paper)!</li>
   <li> [2026/01/18] 🎉 Two papers were accepted by ICASSP 2026!</li>
