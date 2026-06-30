@@ -12,7 +12,7 @@
 
 
 I am currently an Associate Professor at the [School of Computer Science and Technology](https://it.xju.edu.cn/), [Xinjiang University](https://www.xju.edu.cn/index.htm), Urumqi, China. I received the Ph.D. degree in Computer Science and Technology from [Hunan University](https://www.hnu.edu.cn/) in 2023, advised by [Prof. Gaobo Yang](http://csee.hnu.edu.cn/people/yanggaobo). I am the PI of several projects, such as the Natural Science Foundation of China (NSFC). I have published nearly 20 papers in top international conferences and journals, such as ICML, CVPR, ICCV, AAAI, TIFS, TMM, TCSVT and ACM TOMM.
-I am now leading the [Visual Perception and Security Group (VPSG)](https://github.com/vpsg-research/Introduction), with main research interests in multimedia forensics, image/video content security, visual scene understanding. 
+I am now leading the [Visual Perception and Security Group (VPSG)](https://github.com/vpsg-research/), with main research interests in multimedia forensics, image/video content security, visual scene understanding. 
 
 **VPSG is looking for self-motivated students who are committed to research. Please feel free to contact Dr. Zhiqing Guo through the [Email](mailto:guozhiqing@xju.edu.cn) (attach your CV).**
 
