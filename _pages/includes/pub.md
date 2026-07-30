@@ -2,6 +2,18 @@
 NOTE: Corresponding Authors *, Equal Contribution #
 ## 🏁 Proactive Deepfake Detection
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/GIFGuard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[GIFGuard: Proactive Forensics against Deepfakes in Facial GIFs via Spatiotemporal Watermarking](https://arxiv.org/abs/2604.26519) 
+>S. Che, **Z. Guo**\*, C. Miao, D. Ma, and G. Yang.
+ACM International Conference on Multimedia, 2026. (CCF-A)
+[[**Code**]](https://github.com/vpsg-research/GIFGuard) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- We propose the first proactive forensics framework and dataset specially designed for GIF format.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/segfacemark.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
