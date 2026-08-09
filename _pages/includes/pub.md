@@ -139,6 +139,19 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 
 ## 🔎 Manipulation Detection and Location
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/GFrame.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[When 2D Cues Fail: Improving Image Manipulation Localization with Reliable 3D Geometry](https://arxiv.org/abs/2607.18040) 
+>G. Yu, **Z. Guo**\*, D. Ma, and G. Yang.
+ACM International Conference on Multimedia, 2026. (CCF-A)
+[[**Code**]](https://github.com/vpsg-research/GFrame) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- We propose a framework that can identify the camouflage of two-dimensional manipulated images by using reliable three-dimensional geometry.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/PNFNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
