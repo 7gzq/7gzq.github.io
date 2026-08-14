@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2026/08/14] 🎉 One paper was accepted by Information Fusion!</li>
   <li> [2026/07/10] 🎉 Two papers were accepted by ACM MM 2026!</li>
   <li> [2026/06/02] 🎉 One paper was accepted by IEEE TCSVT!</li>
   <li> [2026/05/29] 🎤 I was invited to participate in the CCIG 2026 and gave a report.</li>
