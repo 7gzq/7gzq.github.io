@@ -193,7 +193,7 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 
 
 
-## 🏥 Medical Image Processing
+## 🏥 Multimodal Medical Image Analysis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/CAME-Grad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -226,6 +226,9 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highl
 >Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
 
 ## 📽️ Other Vision Tasks
+- ``INFFUS 2026`` [Handling Modality Inconsistency via Hierarchical Mixture of Experts for Weakly Supervised Video Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S1566253526005865)
+>S. Ning and **Z. Guo**\*. Information Fusion, 2026. （Top Journal）
+
 - ``NN 2026`` [TrCLIP-VAD: Weak Supervised Video Anomaly Detection by Improving CLIP Training with Text Rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120?via%3Dihub)
 >S. Shen, Z. Guo, Y. Li, L. Wang\*, and **Z. Guo**\*. Neural Networks, 2026. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/TrCLIP-VAD)
 
