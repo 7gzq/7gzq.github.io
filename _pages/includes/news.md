@@ -1,7 +1,6 @@
 # 🔥 News
 
 <div class="recent-news">
-  <li> [2026/08/29] 🎉 One paper was accepted by KBS!</li>
   <li> [2026/08/22] 🏆 I was awarded the Outstanding Contribution Award by IJCAI workshop 2026!</li>
   <li> [2026/08/14] 🎉 One paper was accepted by Information Fusion!</li>
   <li> [2026/07/10] 🎉 Two papers were accepted by ACM MM 2026!</li>
