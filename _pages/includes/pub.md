@@ -191,6 +191,9 @@ Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026. (CCF
 </div>
 
 
+- ``KBS 2026`` [Task-conditioned multi-modal manipulation detection and grounding with adaptive query](https://www.sciencedirect.com/science/article/pii/S0950705126016904)
+>P. Zhu, **Z. Guo**\*, L. Wang, and Y. Diao. Knowledge-Based Systems, 2026.
+
 
 
 ## 🏥 Multimodal Medical Image Analysis
