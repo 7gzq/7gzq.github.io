@@ -80,10 +80,10 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2025. (CCF-B, To
 
 
 - ``KBS 2025`` [KAD-Net: Kolmogorov-Arnold and Differential-Aware Networks for Robust and Sensitive Proactive Deepfake Forensics](https://www.sciencedirect.com/science/article/abs/pii/S0950705125017319?via%3Dihub)
->S. He, Y. Diao, Y. Li, C. Sun, L. Wang\*, and **Z. Guo**\*. Knowledge-Based Systems, 2025. （Top Journal）[[**Code**]](https://github.com/vpsg-research/KAD-Net)
+>S. He, Y. Diao, Y. Li, C. Sun, L. Wang\*, and **Z. Guo**\*. Knowledge-Based Systems, 2025. [[**Code**]](https://github.com/vpsg-research/KAD-Net)
 
 - ``INFFUS 2025`` [DiffMark: Diffusion-based Robust Watermark Against Deepfakes](https://www.sciencedirect.com/science/article/pii/S1566253525008632?dgcid=author)
->C. Sun, H. Sun, **Z. Guo**\*, Y. Diao, L. Wang, D. Ma\*, and G. Yang. Information Fusion, 2025. （Top Journal）[[**Code**]](https://github.com/vpsg-research/DiffMark)
+>C. Sun, H. Sun, **Z. Guo**\*, Y. Diao, L. Wang, D. Ma\*, and G. Yang. Information Fusion, 2025. [[**Code**]](https://github.com/vpsg-research/DiffMark)
 
 
 
@@ -126,13 +126,13 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 
 
 - ``ESWA 2023`` [Rethinking Gradient Operator for Exposing AI-enabled Face Forgeries](https://www.sciencedirect.com/science/article/abs/pii/S095741742202379X?via%3Dihub)
->**Z. Guo**, G. Yang\*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. (Top Journal) [[**Code**]](https://github.com/EricGzq/GocNet-pytorch)
+>**Z. Guo**, G. Yang\*, D. Zhang, and M. Xia. Expert Systems with Applications, 2023. [[**Code**]](https://github.com/EricGzq/GocNet-pytorch)
 
 - ``CVIU 2023`` [A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001655)
->**Z. Guo**, G. Yang\*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. (CCF-B) [[**Code**]](https://github.com/EricGzq/MSF)
+>**Z. Guo**, G. Yang\*, D. Wang, and D. Zhang. Computer Vision and Image Understanding, 2023. [[**Code**]](https://github.com/EricGzq/MSF)
 
 - ``CVIU 2021`` [Fake Face Detection via Adaptive Manipulation Traces Extraction Network](https://www.sciencedirect.com/science/article/pii/S107731422100014X)
->**Z. Guo**, G. Yang\*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. (CCF-B) [[**Code**]](https://github.com/EricGzq/AMTENnet) [[**Dataset**]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
+>**Z. Guo**, G. Yang\*, J. Chen, and X. Sun. Computer Vision and Image Understanding, 2021. [[**Code**]](https://github.com/EricGzq/AMTENnet) [[**Dataset**]](https://github.com/EricGzq/Hybrid-Fake-Face-Dataset)
 
 
 <!-- ``ICML 2019`` <span style="color:red">(Oral)</span> [Almost Unsupervised Text to Speech and Automatic Speech Recognition](https://pdfs.semanticscholar.org/9075/a3e6271e5ef4953491488d1776527e632408.pdf), **Yi Ren**, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu  \| [**Project**](https://speechresearch.github.io/unsuper/) -->
@@ -223,32 +223,32 @@ IEEE/CVF International Conference on Computer Vision (ICCV), 2025. (CCF-A, Highl
 </div>
 
 - ``INFFUS 2025`` [Conv-SdMLPMixer: A Hybrid Medical Image Classification Network Based on Multi-branch CNN and Multi-scale multi-dimensional MLP](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000107)
->Z. Ren#, S Liu#, L. Wang\*, and **Z. Guo**\*. Information Fusion, 2025. （Top Journal） [[**Code**]](https://github.com/vpsg-research/Conv-SdMLPMixer)
+>Z. Ren#, S Liu#, L. Wang\*, and **Z. Guo**\*. Information Fusion, 2025. [[**Code**]](https://github.com/vpsg-research/Conv-SdMLPMixer)
 
 - ``ASC 2024`` [Medical Image Segmentation Network Based on Feature Filtering with Low Number of Parameters](https://www.sciencedirect.com/science/article/abs/pii/S1568494624011736)
->Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024. （Top Journal）
+>Z. Ren#, **Z. Guo**#, L. Wang\*, L. Xu, and C. Liu. Applied Soft Computing, 2024.
 
 ## 📽️ Other Vision Tasks
 - ``INFFUS 2026`` [Handling Modality Inconsistency via Hierarchical Mixture of Experts for Weakly Supervised Video Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S1566253526005865)
->S. Ning and **Z. Guo**\*. Information Fusion, 2026. （Top Journal）
+>S. Ning and **Z. Guo**\*. Information Fusion, 2026.
 
 - ``NN 2026`` [TrCLIP-VAD: Weak Supervised Video Anomaly Detection by Improving CLIP Training with Text Rewriting](https://www.sciencedirect.com/science/article/abs/pii/S0893608026004120?via%3Dihub)
->S. Shen, Z. Guo, Y. Li, L. Wang\*, and **Z. Guo**\*. Neural Networks, 2026. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/TrCLIP-VAD)
+>S. Shen, Z. Guo, Y. Li, L. Wang\*, and **Z. Guo**\*. Neural Networks, 2026. [[**Code**]](https://github.com/vpsg-research/TrCLIP-VAD)
 
 - ``EAAI 2026`` [Multi-angle Feature Enhancement for Multi-defect Category Insulator Defect Detection in the Wild](https://www.sciencedirect.com/science/article/pii/S0952197625033287?dgcid=author)
->Z. Yang#, **Z. Guo**#, and L. Wang\*. Engineering Applications of Artificial Intelligence, 2026. (Top Journal) [[**Code**]](https://github.com/1wsxiao/BDD-Net)
+>Z. Yang#, **Z. Guo**#, and L. Wang\*. Engineering Applications of Artificial Intelligence, 2026. [[**Code**]](https://github.com/1wsxiao/BDD-Net)
 
 - ``PR 2025`` [CLTR: Continual Learning Time-varying Regularization for Robust Classification of Noisy Label Images](https://www.sciencedirect.com/science/article/abs/pii/S0031320325007976)
->Y. Li#, **Z. Guo**#, and L. Wang\*. Pattern Recognition, 2025. (CCF-B, Top Journal) [[**Code**]](https://github.com/vpsg-research/CLTR)
+>Y. Li#, **Z. Guo**#, and L. Wang\*. Pattern Recognition, 2025. [[**Code**]](https://github.com/vpsg-research/CLTR)
 
 - ``ESWA 2025`` [CTIFTrack: Continuous Temporal Information Fusion for Object Track](https://www.sciencedirect.com/science/article/abs/pii/S0957417424025211)
->Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. （Top Journal） [[**Code**]](https://github.com/vpsg-research/CTIFTrack)
+>Z. Zhang#, **Z. Guo**#, L. Wang\*, and Y. Li. Expert Systems with Applications, 2025. [[**Code**]](https://github.com/vpsg-research/CTIFTrack)
 
 - ``IPM 2024`` [TBC-MI : Suppressing Noise Labels by Maximizing Cleaning Samples for Robust Image Classification](https://www.sciencedirect.com/science/article/abs/pii/S0306457324001602)
->Y. Li, **Z. Guo**, L. Wang\*, and L. Xu. Information Processing & Management, 2024. (CCF-B, Top Journal)
+>Y. Li, **Z. Guo**, L. Wang\*, and L. Xu. Information Processing & Management, 2024. 
 
 - ``ACM-TOMM 2023`` [Enhancing Adversarial Embedding based Image Steganography via Clustering Modification Directions](https://dl.acm.org/doi/abs/10.1145/3603377)
->D. Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023. (CCF-B)
+>D. Wang, G. Yang\*, **Z. Guo**, and J. Chen. ACM Transactions on Multimedia Computing Communications and Applications, 2023.
 
 - ``CVIU 2022`` [Robust Detection of Dehazed Images via Dual-stream CNNs with Adaptive Feature Fusion](https://www.sciencedirect.com/science/article/pii/S1077314222000017)
->J. Chen, G. Yang\*, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022. (CCF-B)
+>J. Chen, G. Yang\*, X. Ding, **Z. Guo**, and S. Wang. Computer Vision and Image Understanding, 2022.
