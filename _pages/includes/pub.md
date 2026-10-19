@@ -1,5 +1,18 @@
 # 📝 Publications 
 NOTE: Corresponding Authors *, Equal Contribution #
+
+## 🤹 Human-centered forgery detection
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2027</div><img src='images/sp27.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images](https://arxiv.org/abs/2610.23144) 
+>**Z. Guo**#, L. Jia#, L. Sun#, X. Chen, G. Yu, L. Wang\*, G. Yang, D. Stillwell, T. Holz, and S. Li\*.
+‌IEEE Symposium on Security and Privacy‌, 2027. (CCF-A) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- We try to train people to identify facial forgery.
+</div>
+</div>
+
 ## 🏁 Proactive Deepfake Detection
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/GIFGuard.png' alt="sym" width="100%"></div></div>
