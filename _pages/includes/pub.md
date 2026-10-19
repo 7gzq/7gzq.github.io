@@ -1,7 +1,7 @@
 # 📝 Publications 
 NOTE: Corresponding Authors *, Equal Contribution #
 
-## 🤹 Human-centered forgery detection
+## 🤹 Human-centered Forgery Detection
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE S&P 2027</div><img src='images/sp27.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
