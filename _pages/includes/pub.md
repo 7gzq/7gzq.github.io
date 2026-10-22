@@ -7,7 +7,8 @@ NOTE: Corresponding Authors *, Equal Contribution #
   
 [From GAN-Based Models to GPT-5: A Taxonomy-Guided Study of Human Performance in Detecting Deepfake Face Images](https://arxiv.org/abs/2610.23144) 
 >**Z. Guo**#, L. Jia#, L. Sun#, X. Chen, G. Yu, L. Wang\*, G. Yang, D. Stillwell, T. Holz, and S. Li\*.
-‌IEEE Symposium on Security and Privacy‌, 2027. (CCF-A) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+‌IEEE Symposium on Security and Privacy‌, 2027. (CCF-A)
+>[[**Code**]](https://doi.org/10.5281/zenodo.22843044) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - We try to train people to identify facial forgery.
 </div>
