@@ -153,6 +153,19 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 
 ## 🔎 Manipulation Detection and Location
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2027</div><img src='images/CMBNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging Semantic Logic Gaps: A Cognition Inspired Multimodal Boundary Preserving Network for Image Manipulation Localization](https://arxiv.org/abs/2508.07216) 
+>S. Li, **Z. Guo**\*, Y. Li, Z. Li, Y. Diao, G. Yang, and L. Wang.
+IEEE Transactions on Information Forensics and Security, 2027. (CCF-A)
+[[**Code**]](https://github.com/vpsg-research/CMB-Net) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- This work uses LLM-generated semantic cues, combined with hallucination-mitigation and boundary-preserving modules, to achieve superior image manipulation localization.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2026</div><img src='images/GFrame.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
