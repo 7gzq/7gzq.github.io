@@ -1,6 +1,7 @@
 # 🔥 News
 
 <div class="recent-news">
+  <li> [2026/11/07] 🎉 One paper was accepted by IEEE TMM!</li>
   <li> [2026/10/31] 🎉 One paper was accepted by IEEE TIFS!</li>
   <li> [2026/09/14] 🎉 One paper was accepted by IEEE S&P 2027!</li>
   <li> [2026/09/09] 🎉 One paper was accepted by Information Fusion!</li>
