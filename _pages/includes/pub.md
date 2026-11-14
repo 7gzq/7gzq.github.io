@@ -156,7 +156,7 @@ IEEE Transactions on Multimedia, vol. 25, pp. 8458-8470, 2023, doi: 10.1109/TMM.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS 2027</div><img src='images/CMBNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging Semantic Logic Gaps: A Cognition Inspired Multimodal Boundary Preserving Network for Image Manipulation Localization](https://ieeexplore.ieee.org/document/11783077/authors#authors) 
+[Bridging Semantic Logic Gaps: A Cognition Inspired Multimodal Boundary Preserving Network for Image Manipulation Localization](https://ieeexplore.ieee.org/document/11783077) 
 >S. Li, **Z. Guo**\*, Y. Li, Z. Li, Y. Diao, G. Yang, and L. Wang.
 IEEE Transactions on Information Forensics and Security, 2027. (CCF-A)
 [[**Code**]](https://github.com/vpsg-research/CMB-Net) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
